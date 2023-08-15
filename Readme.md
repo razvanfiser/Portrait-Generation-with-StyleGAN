@@ -15,7 +15,7 @@ As you can see all the non-square images have been reflected on two sides in ord
 ## Results
 Below are some results that I have selected after running the StyleGAN for a couple of hours per day for three days in a row:
 
-![Alt Text](Results\compil_2.jpg)
+![Alt Text](/Results/compil_2.jpg)
 
 ## How to Run this Project
 This project contains the file <code>Portraits_StyleGAN.ipynb</code> which can pe pulled and ran and editted in order to produce your own subset of the WikiArt dataset (provided that you have downloaded the data from the link above).
